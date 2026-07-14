@@ -30,9 +30,4 @@ int main()
     v1.setAge(21);
     cout<<"Your Age "<<v1.getAge()<<" is Eligible to Vote.";
     return 0;
-}
-        
-
-    
-
-    
+}        
